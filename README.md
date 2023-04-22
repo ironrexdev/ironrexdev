@@ -15,7 +15,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 <h2 align="center">Reach me out on </h2>
