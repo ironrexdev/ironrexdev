@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://i.yapx.cc/Ifa7n.gif" />
+<img src="https://zelengrand.ru/wp-content/uploads/2022/04/4c76f0d649a2246740850eb9a26cfda93060fa53.gif" />
 
 </p>
 
