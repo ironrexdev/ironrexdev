@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://miro.medium.com/max/1100/1*dJjow20BfCPn5bh8211khw.png" />
+<img src="https://www.toplinecareer.com/wp-content/uploads/2020/02/web-development.gif" />
 
 </p>
 
